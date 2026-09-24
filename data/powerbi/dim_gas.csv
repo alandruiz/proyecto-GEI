@@ -1,0 +1,6 @@
+gas_id,tipo_de_gas,nombre_gas
+1,CH4,Metano
+2,CO2,Dióxido de carbono
+3,HFC,Hidrofluorocarbonos
+4,N2O,Óxido nitroso
+5,PFC,Perfluorocarbonos
